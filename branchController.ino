@@ -5,7 +5,7 @@
 // controls up to 8 separate LED strips, based on instructions received
 // over TCP-IP.
 //
-// Status: TEST CODE, PROOF-OF-CONCEPT
+// Status: TEST CODE
 // Author: Joel Spolsky
 
 
